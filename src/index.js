@@ -1,1 +1,4 @@
-console.log("Ahora cambios guradsos que si")
+import React from 'react'
+import ReactDOM from 'react-dom'
+
+ReactDOM.render(<h1>Etiqueta H1</h1>, document.getElementById('app'))
